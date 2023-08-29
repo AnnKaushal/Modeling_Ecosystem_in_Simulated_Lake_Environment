@@ -75,3 +75,6 @@ The simulation consists of several steps, each exploring different aspects of th
 Feel free to modify the parameters and analyze how changes affect the lake ecosystem dynamics and particle movement.
 
 Enjoy exploring the intricate dynamics of this simulated lake environment!
+
+Author: Anandita Kaushal
+Contact: 20bce034@nith.ac.in
